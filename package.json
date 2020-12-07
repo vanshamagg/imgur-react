@@ -1,0 +1,25 @@
+{
+  "name": "imgur-react",
+  "version": "1.0.0",
+  "description": "a lame imgur clone implemeneted using react",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanshamagg/imgur-react.git"
+  },
+  "keywords": [
+    "imgur",
+    "react",
+    "vansham",
+    "project"
+  ],
+  "author": "Vansham Aggarwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanshamagg/imgur-react/issues"
+  },
+  "homepage": "https://github.com/vanshamagg/imgur-react#readme"
+}
